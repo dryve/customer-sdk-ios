@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "BringgGlobals.h"
 #import "GGRealTimeInternals.h"
-#import <SocketIOClientSwift/SocketIOClientSwift-Swift.h>
+#import <BringgTracking/BringgTracking-Swift.h>
 
 
 @interface GGRealTimeAdapter : NSObject

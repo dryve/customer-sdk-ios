@@ -4,3 +4,7 @@ framework module BringgTracking {
   export *
   module * { export * }
 }
+
+module BringgTracking.Swift {
+    header "BringgTracking-Swift.h"
+}

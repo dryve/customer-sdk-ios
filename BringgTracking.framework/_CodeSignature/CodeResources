@@ -4,9 +4,49 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/libswiftContacts.dylib</key>
+		<data>
+		838xNLJKg8pwoyKL/f8H6wkVvV8=
+		</data>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<data>
+		cez/GfK6bLi3uc8LFR1fM/QxuuA=
+		</data>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<data>
+		HYb+WIz0iTqn4LcAAMdmIwmJbok=
+		</data>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<data>
+		0ofDsLBhYtmM2ZLwcYky2dMrOKk=
+		</data>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<data>
+		7GgmZUnEFymzHrLWNqBojtvG4xs=
+		</data>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<data>
+		2ScUaDpZgTGgrAdxw6IZuochz4I=
+		</data>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<data>
+		Nuva7B1s5KvSsZI+Hld2MjSGKN8=
+		</data>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<data>
+		dcbVMYr7fo+th6K0npDmB0Ro4/A=
+		</data>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<data>
+		tKvK1LOvRyo2YPn4LrtMGx/y+Hg=
+		</data>
 		<key>Headers/BringgGlobals.h</key>
 		<data>
-		r/C73nVIS6EWq/t3gggOpJ7q8ss=
+		ednzIL2HDgKBYDQell+bfXwksf4=
+		</data>
+		<key>Headers/BringgTracking-Swift.h</key>
+		<data>
+		Q7Xbxosl7dnguWTDldsFBImBirM=
 		</data>
 		<key>Headers/BringgTracking.h</key>
 		<data>
@@ -62,24 +102,150 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QGgcz5rkzZq8kaS5l7wradlsu10=
+		jg2kpqQ6BN7jwaNCc5/IpwV+bXY=
+		</data>
+		<key>Modules/BringgTracking.swiftmodule/arm.swiftdoc</key>
+		<data>
+		SXjejNlINzAxiiGgGyV49n8OUDI=
+		</data>
+		<key>Modules/BringgTracking.swiftmodule/arm.swiftmodule</key>
+		<data>
+		+3Xh3+2tPRZ8HxwximwEfvuORrM=
+		</data>
+		<key>Modules/BringgTracking.swiftmodule/arm64.swiftdoc</key>
+		<data>
+		R+xH7/gOjdhEKDIgQpkPvDXzPIM=
+		</data>
+		<key>Modules/BringgTracking.swiftmodule/arm64.swiftmodule</key>
+		<data>
+		mF4ubnDMZHlsKiWqwJbVfTj5nGs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		qisBpZEG5VVM+QhltsPmWmYs/Vo=
+		egNtM9WAvO9bSBOEwW29mlx0whg=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/libswiftContacts.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			838xNLJKg8pwoyKL/f8H6wkVvV8=
+			</data>
+			<key>hash2</key>
+			<data>
+			vTuOmpX3wivglSIBmjJGVLW4OyNbxOYWwgpxCnYc1nM=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cez/GfK6bLi3uc8LFR1fM/QxuuA=
+			</data>
+			<key>hash2</key>
+			<data>
+			XRDTTU1Nc1H/QYs0ynQGPuWIggyMux5bbqpWszCusto=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HYb+WIz0iTqn4LcAAMdmIwmJbok=
+			</data>
+			<key>hash2</key>
+			<data>
+			WhO0bTZsrWuqIpJhOfnkMBTRJz7hUQI3DZileoJijeU=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0ofDsLBhYtmM2ZLwcYky2dMrOKk=
+			</data>
+			<key>hash2</key>
+			<data>
+			hPZ/FufaicIons8Btdyz/TL7sEZesZllAPmZO0TK8vQ=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7GgmZUnEFymzHrLWNqBojtvG4xs=
+			</data>
+			<key>hash2</key>
+			<data>
+			+qC5CljY2qpx0Jn4bGJScLWJfhJafFufLVFaEfDcCPM=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2ScUaDpZgTGgrAdxw6IZuochz4I=
+			</data>
+			<key>hash2</key>
+			<data>
+			Mu2DbfqjPkGQc+AfW2oocblJVyHda3tlarYc1SN5Ir8=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Nuva7B1s5KvSsZI+Hld2MjSGKN8=
+			</data>
+			<key>hash2</key>
+			<data>
+			iuELnfxOQpARArS/VM7JTEO8hAXJTEKpIqYHzgW5uHw=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dcbVMYr7fo+th6K0npDmB0Ro4/A=
+			</data>
+			<key>hash2</key>
+			<data>
+			k7w2kvs6JQAHoUE+OWVr08bkyVBwghCkAb8+NCq5dtI=
+			</data>
+		</dict>
+		<key>Frameworks/libswiftUIKit.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tKvK1LOvRyo2YPn4LrtMGx/y+Hg=
+			</data>
+			<key>hash2</key>
+			<data>
+			mshUxYcBkAAHNyjjJurNjUq705Odcvpz2X2F0zHgjKA=
+			</data>
+		</dict>
 		<key>Headers/BringgGlobals.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r/C73nVIS6EWq/t3gggOpJ7q8ss=
+			ednzIL2HDgKBYDQell+bfXwksf4=
 			</data>
 			<key>hash2</key>
 			<data>
-			3LToruwdWsDVXu6/6BzeHPHVhnBEJB/QtDm3tcsHFu4=
+			TApoHH0dcu0Mx3pB2aIWl7s7SuQA0/JPv7IOzc00APg=
+			</data>
+		</dict>
+		<key>Headers/BringgTracking-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q7Xbxosl7dnguWTDldsFBImBirM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z4H9E/aTeNPWvg9DvV1jgpt99Qz5rktcnzjRnzHGmkA=
 			</data>
 		</dict>
 		<key>Headers/BringgTracking.h</key>
@@ -225,15 +391,59 @@
 			Qhm+znh+r57H6ga2MKCk3J2fl5TOBddRXAfVrom/bNE=
 			</data>
 		</dict>
+		<key>Modules/BringgTracking.swiftmodule/arm.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SXjejNlINzAxiiGgGyV49n8OUDI=
+			</data>
+			<key>hash2</key>
+			<data>
+			zruj9RdNOcu5FOSqF21SOuQ0xM6IRXWzjOrae6uPXrE=
+			</data>
+		</dict>
+		<key>Modules/BringgTracking.swiftmodule/arm.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+3Xh3+2tPRZ8HxwximwEfvuORrM=
+			</data>
+			<key>hash2</key>
+			<data>
+			e2DQp3weT42kYBHv5Z6QxryMBzaXoqqmiG10+rPsNvo=
+			</data>
+		</dict>
+		<key>Modules/BringgTracking.swiftmodule/arm64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R+xH7/gOjdhEKDIgQpkPvDXzPIM=
+			</data>
+			<key>hash2</key>
+			<data>
+			pMChuWA1DOlC7AT6/xtWZeMC5f9q/CczpeMn4fsjiCo=
+			</data>
+		</dict>
+		<key>Modules/BringgTracking.swiftmodule/arm64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mF4ubnDMZHlsKiWqwJbVfTj5nGs=
+			</data>
+			<key>hash2</key>
+			<data>
+			t2VfUCJbzgowGEm+l6pVGgxMXX5QqHSmWPRJulEztDk=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qisBpZEG5VVM+QhltsPmWmYs/Vo=
+			egNtM9WAvO9bSBOEwW29mlx0whg=
 			</data>
 			<key>hash2</key>
 			<data>
-			cEd0R1GxHEfHiD3D7wdK/geIgdEy4h3iHrvWDZqdj+E=
+			Xw8i6NSbDxpPw4vYC1o39l8K97MOoVV5skXkwIqMcFE=
 			</data>
 		</dict>
 	</dict>

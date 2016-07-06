@@ -11,7 +11,7 @@
 #import "GGTrackerManager.h"
 #import "Reachability.h"
 
-#import <SocketIOClientSwift/SocketIOClientSwift-Swift.h>
+#import <BringgTracking/BringgTracking-Swift.h>
 
 #define MAX_WITHOUT_REALTIME_SEC 240
 
